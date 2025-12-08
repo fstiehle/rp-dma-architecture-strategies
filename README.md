@@ -9,7 +9,7 @@ This repository is a companion page for the following publication:
 
 ## Results Overview
 
-![Strategies overview including obligations, values, and gatekeeper tactics](figures/strategies_overview.pdf)
+![Strategies overview including obligations, values, and gatekeeper tactics](figures/strategies_overview.png)
 
 ## Repository Structure
 This is the root directory of the repository. The directory is structured as follows:
