@@ -21,7 +21,15 @@ If this study is helping your research, consider to cite it is as follows, thank
 ```
 
 ## Quick start
-Here a documentation on how to use the replication material should be provided.
+- Excel Sheet
+  - Second Coding Cylce (Coding)
+  - Values
+  - Strategies
+  - Obligations
+  - Cleaned Tactic Synthesis
+  - Tactics
+- In Excel, Open Document, and CSV
+- Kracke
 
 ### Getting started
 
