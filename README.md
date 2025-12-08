@@ -19,7 +19,7 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- data/
      |      |--- data.xlsx                            Data working sheet for data extraction, analysis, and synthesis
-     |      |--- data/data.ods                             Identical as data.xlsx but in OpenDocument format
+     |      |--- data.ods                             Identical as data.xlsx but in OpenDocument format
      |
      |--- figures/                               
      |      |--- strategies_overview.pdf                            Results overview
