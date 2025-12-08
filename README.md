@@ -22,5 +22,5 @@ This is the root directory of the repository. The directory is structured as fol
      |      |--- data.ods                             Identical as data.xlsx but in OpenDocument format
      |
      |--- figures/                               
-     |      |--- strategies_overview.pdf                            Results overview
+     |      |--- strategies_overview.pdf              Results overview
   
