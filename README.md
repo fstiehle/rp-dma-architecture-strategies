@@ -1,6 +1,6 @@
 # Deriving Strategies from the Digital Markets Act for Architecting Value-Based Platforms
 This repository is a companion page for the following publication:
->_ Designing Value-Based Platforms: Architectural Strategies Derived from the Digital Markets Act_, accepted as a short paper at ICSA 2026.
+>_Designing Value-Based Platforms: Architectural Strategies Derived from the Digital Markets Act_, accepted as a short paper at ICSA 2026.
 
 ## Quick links
   * [Strategies and Gatekeeper Tactics Overview](figures/strategies_overview.pdf)
